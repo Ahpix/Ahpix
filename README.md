@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - Korean high school student
-- Korean SAT 10 months left
+- Korean SAT 11 days left
 
 ### Language 🎈
 

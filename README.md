@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-- Korean high school student
-- Korean SAT 11 days left
+- HBNU
 
 ### Language 🎈
 

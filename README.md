@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - HBNU
-
+<!--
 ### Language 🎈
 
 <img align="left" alt="Python" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2400px-Python-logo-notext.svg.png" />
@@ -9,6 +9,6 @@
 
 <br/>
 <br/>
-
+-->
 ### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahpix&show_icons=true&theme=radical)

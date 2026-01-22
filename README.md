@@ -1,6 +1,11 @@
 ## Hi there 👋
+🎓 Education
+- **B.S. in Computer Engineering**, Hanbat National University, Daejeon, Korea (2025 – Present)
 
-- HBNU
+📚 Interests
+- **Software Development**
+- **Artificial Intelligence Research**
+
 <!--
 ### Language 🎈
 
@@ -11,4 +16,4 @@
 <br/>
 -->
 ### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahpix&show_icons=true&theme=radical)
+![Ahpix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahpix&show_icons=true&theme=radical)
